@@ -1,3 +1,3 @@
-{
-    "whitelisted_ids": [4083772204]
+return {
+    whitelisted_ids = {4083772204}
 }
